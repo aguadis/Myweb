@@ -264,6 +264,6 @@ li.list-group-item {
 
 }
 div.qr {
-  background-color: black;
+  background-color: black !important;
   margin-top: 1rem;
 }

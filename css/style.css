@@ -201,7 +201,7 @@ header {
   }
 
   .footer.navbar {
-    background-color: black;
+    background-color: black !important;
    
     justify-content: center;
     display: flex;

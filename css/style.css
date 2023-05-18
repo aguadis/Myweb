@@ -207,7 +207,7 @@ header {
     display: flex;
     width: 100%;
     height: 20%;
-    padding: 1rem;
+    padding: 3rem;
  }
 
  .text-center{
@@ -256,4 +256,14 @@ i.fa-brands.fa-linkedin.fa-2xl:hover{
 li.list-group-item {
   background: transparent;
   border: none;
+}
+
+/*datos de contacto*/
+.img-thumbnail {
+  width: 11rem;
+
+}
+div.qr {
+  background-color: rgba(124, 123, 120, 0.7);
+  margin-top: 1rem;
 }

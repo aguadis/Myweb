@@ -173,6 +173,7 @@ header {
     max-width: 800px;
     margin: auto;
     padding: 20px;
+    text-align: center;
   }
 
   .row{
@@ -270,7 +271,7 @@ div.qr {
 
 /*carrusel de imagenes*/
  .carousel-inner{
-  width: 90%;
+  width: 39rem;
   max-width: 39rem;
   margin: auto;
   overflow: hidden;
